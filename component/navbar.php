@@ -15,10 +15,10 @@
                         <a class="nav-link active" href="#home" aria-current="page">Makanan</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="resep.html">Minuman</a>
+                        <a class="nav-link" href="minuman">Minuman</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="bagiResep">Resep</a>
+                        <a class="nav-link" href="bagiResep">Camilan</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Tentang Kami</a>
